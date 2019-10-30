@@ -9,13 +9,13 @@ template = j2_env.get_template('readme.md.j2')
 
 rendered_file = template.render(
 name='guiadco',
-website='https://ccl-consulting.fr/',
+website='https://ccl-consulting.fr',
 logo='docs/logo.pnj',
 email='guiadco@geekhomeinside.com',
 issue='issues',
 project='jinja2-readme',
 namespace='ccl-consulting',
-github='https://github.com/ccl-consulting',
+github='https://github.com',
 release='release',
 badges='test'
 )

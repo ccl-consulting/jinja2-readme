@@ -2,14 +2,14 @@
 
 ![logo](docs/logo.pnj)
 
-[![test](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-test-e10079.svg)](https://github.com/ccl-consulting/ccl-consulting/jinja2-readme)
+[![test](https://img.shields.io/badge/%20%20%F0%9F%93%A6%F0%9F%9A%80-test-e10079.svg)](https://github.com/ccl-consulting/jinja2-readme)
 
 ## Introduction
 
 ## Usage
 
 **IMPORTANT:** The `master` branch is used in `source` just as an example. In your code, do not pin to `master` because there may be breaking changes between releases.
-Instead pin to the release tag (e.g. `?ref=tags/x.y.z`) of one of our [latest releases](https://github.com/ccl-consulting/ccl-consulting/jinja2-readme/release).
+Instead pin to the release tag (e.g. `?ref=tags/x.y.z`) of one of our [latest releases](https://github.com/ccl-consulting/jinja2-readme/release).
 
 ## Quick Start
 
@@ -17,13 +17,13 @@ Instead pin to the release tag (e.g. `?ref=tags/x.y.z`) of one of our [latest re
 
 ## Share the Love
 
-Like this project? Please give it a ★ on [our GitHub](https://github.com/ccl-consulting/ccl-consulting/jinja2-readme)! (it helps us **a lot**)
+Like this project? Please give it a ★ on [our GitHub](https://github.com/ccl-consulting/jinja2-readme)! (it helps us **a lot**)
 
 ## Related Projects
 
 Check out these related projects.
 
-- https://github.com/ccl-consulting/ccl-consulting
+- https://github.com/ccl-consulting
 
 ## References
 
@@ -33,7 +33,7 @@ For additional context, refer to some of these links.
 
 **Got a question?**
 
-File a GitHub [issue]( https://github.com/ccl-consulting/ccl-consulting/jinja2-readme/issues )
+File a GitHub [issue]( https://github.com/ccl-consulting/jinja2-readme/issues )
 
 ### Developing
 
@@ -51,12 +51,12 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 ## About
 
-This project is maintained and funded by https://ccl-consulting.fr/.
+This project is maintained and funded by https://ccl-consulting.fr.
 
-[![ccl-consulting](docs/logo.pnj)](https://ccl-consulting.fr/)
+[![ccl-consulting](docs/logo.pnj)](https://ccl-consulting.fr)
 
-Check out https://github.com/ccl-consulting, to help with your cloud strategy and implementation.
+Check out https://github.com, to help with your cloud strategy and implementation.
 
 ### Contributors
 
-- guiadco: https://github.com/ccl-consulting/guiadco
+- guiadco: https://github.com/guiadco
