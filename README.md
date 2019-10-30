@@ -53,7 +53,7 @@ In general, PRs are welcome. We follow the typical "fork-and-pull" Git workflow.
 
 This project is maintained and funded by https://ccl-consulting.fr/.
 
-[![ccl-consulting][docs/logo.pnj]][ https://ccl-consulting.fr/]
+[![ccl-consulting](docs/logo.pnj)](https://ccl-consulting.fr/)
 
 Check out https://github.com/ccl-consulting, to help with your cloud strategy and implementation.
 
