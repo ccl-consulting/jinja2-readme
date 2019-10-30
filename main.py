@@ -7,6 +7,21 @@ j2_env = Environment(loader=FileSystemLoader('templates'),
 
 template = j2_env.get_template('readme.md.j2')
 
-rendered_file = template.render(name='mario', website='https://portfolio.geekhomeinside.com/', logo='docs/logo.pnj', email='guiadco@geekhomeinside.com')
+rendered_file = template.render(
+name='mario',
+website='https://ccl-consulting.fr/',
+logo='docs/logo.pnj',
+email='guiadco@geekhomeinside.com',
+issue='issues',
+project='jinja2-readme',
+namespace='ccl-consulting',
+github='https://github.com/ccl-consulting',
+release='release',
+badges='test'
+)
 
 print(rendered_file)
+
+# to save the results
+with open("README.md", "w") as fh:
+    fh.write(rendered_file)
