@@ -8,7 +8,7 @@ j2_env = Environment(loader=FileSystemLoader('templates'),
 template = j2_env.get_template('readme.md.j2')
 
 rendered_file = template.render(
-name='mario',
+name='guiadco',
 website='https://ccl-consulting.fr/',
 logo='docs/logo.pnj',
 email='guiadco@geekhomeinside.com',
