@@ -59,4 +59,4 @@ Check out https://github.com/ccl-consulting, to help with your cloud strategy an
 
 ### Contributors
 
-mario
+- mario: https://github.com/ccl-consulting/mario
